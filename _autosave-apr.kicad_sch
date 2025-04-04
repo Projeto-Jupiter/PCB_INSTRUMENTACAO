@@ -12339,7 +12339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "Library:Screw Terminal 3D"
 			(at 452.12 114.3 0)
 			(effects
 				(font
@@ -18242,7 +18242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "Library:Screw Terminal 3D"
 			(at 452.12 138.43 0)
 			(effects
 				(font
@@ -19689,7 +19689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
+		(property "Footprint" "Library:Screw Terminal 3D"
 			(at 452.12 90.17 0)
 			(effects
 				(font

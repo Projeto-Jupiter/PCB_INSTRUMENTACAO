@@ -1,4 +1,4 @@
-24739092406547683
+24757701305012495
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65849,12 +65849,89 @@ Yellow 5381 Series LED
 2
 2
 Library
+Arduino UNO R3 3D
+Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
+Arduino UNO R3
+0
+32
+32
+Library
+Borne 3D
+simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2
+terminal block bornier2
+0
+2
+2
+Library
+Borne 3D 4 vias
+simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4
+terminal block bornier4
+0
+4
+4
+Library
+JUPITER
+
+
+0
+0
+0
+Library
+KT100-3PIN
+
+
+0
+3
+1
+Library
+Lora Module
+
+
+0
+0
+0
+Library
+PN2222 Modificado
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Library
+Raspberry Pi
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
+0
+40
+40
+Library
+Screw Terminal
+
+
+0
+2
+2
+Library
+Screw Terminal 3D
+Generic Buzzer, D14mm height 7mm with pitch 10mm
+buzzer
+0
+2
+2
+Library
 Sem título
 
 
 0
 0
 0
+Library
+Transistor com dissipador
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
 Library
 hx711
 
